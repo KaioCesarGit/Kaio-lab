@@ -1,2 +1,2 @@
-return c * i / 12
+return c * (i / 100);
 //calcular juros
